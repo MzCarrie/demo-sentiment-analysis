@@ -1,0 +1,2 @@
+python -m textblob.download_corpora
+python -m ipykernel install --user --name=wangshuyi

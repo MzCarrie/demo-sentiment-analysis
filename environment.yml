@@ -1,6 +1,5 @@
 dependencies:
   - python=3
   - pip:
-    - ipykernel
     - snownlp
     - -U textblob

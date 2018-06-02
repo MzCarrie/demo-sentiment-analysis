@@ -3,4 +3,4 @@ dependencies:
   - pip:
     - ipykernel
     - snownlp
-    - -U textblob
+    - textblob
